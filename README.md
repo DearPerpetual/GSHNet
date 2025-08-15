@@ -8,12 +8,17 @@ Code for reproducing results in the paper __GSHNet: A Gated and Saliency-guided 
 
 ## Results
 <p align="center">
-<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_2.jpg", width="360">
-<p align="center">
-<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_795.jpg", width="360">
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/105.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/116.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/144.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/186.png" width="200"/>
 </p>
+
 <p align="center">
-<img src="https://github.com/DearPerpetual/MFPLNet/blob/main/work_dirs/out/swin_t_tusimple/20240925_121139_lr_1e-03_b_8/visualization/clips_0530_00000_857.jpg", width="360">
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/218.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/59.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/64.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/186.png" width="200"/>
 </p>
 
 
