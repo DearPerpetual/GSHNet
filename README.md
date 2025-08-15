@@ -17,7 +17,7 @@ Code for reproducing results in the paper __GSHNet: A Gated and Saliency-guided 
 <p align="center">
   <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/218.png" width="200"/>
   <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/59.png" width="200"/>
-  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/64.png" width="200"/>
+  <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/446.png" width="200"/>
   <img src="https://github.com/DearPerpetual/GSHNet/blob/main/figure/376.png" width="200"/>
 </p>
 
