@@ -8,7 +8,7 @@ import torch.nn.functional as F
 from tqdm import tqdm
 from GSHNet import GSHNet
 
-def get_pred_dir(model, data_root = '/media/tyh/CTGU-Work/GSHNet/datasets', save_path = 'output/preds/',img_size = 384,methods = 'DUTS-TE'):
+def get_pred_dir(model, data_root = '', save_path = '',img_size = 384,methods = ''):
 
     batch_size = 1
     test_paths = methods.split('+')
