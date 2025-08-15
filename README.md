@@ -44,4 +44,3 @@ Running on Ubuntu 16.04 system with pytorch，GPU 3060.
   `python run.py --test True`
 ### step 5: You will get the test results in the output folder.
 __Note: The resolution of all test images is adjusted to `360x540`.__
-
