@@ -3,9 +3,9 @@ import argparse
 import os
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_root', default='/media/tyh/CTGU-Work/GSHNet/datasets', type=str, help='data path')
+    parser.add_argument('--data_root', default='', type=str, help='data path')
     parser.add_argument('--img_size', default=384, type=int, help='network input size')
-    parser.add_argument('--method', default='model', type=str, help='M3Net with different backbone')
+    parser.add_argument('--method', default='model', type=str, help='')
     parser.add_argument('--pretrained_model', default='./pretrained_model/', type=str, help='load Pretrained model')
     parser.add_argument('--lr', default=1e-4, type=int, help='learning rate')
     parser.add_argument('--batch_size', default=2, type=int, help='batch_size')
