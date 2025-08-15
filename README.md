@@ -5,7 +5,7 @@ Code for reproducing results in the paper __MFPLNet: Cross Layer Feature Aggrega
  Form Power Line Instance Detection__.
 
 ## Network Architecture
-![pipeline]([https://github.com/DearPerpetual/MFPLNet/blob/main/Network%20Architecture.png](https://github.com/DearPerpetual/GSHNet/blob/main/figure/fig1.png))
+![pipeline]([https://github.com/DearPerpetual/GSHNet/blob/main/figure/fig1.png])
 
 ## Results
 <p align="center">
